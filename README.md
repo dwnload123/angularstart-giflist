@@ -1,3 +1,7 @@
+# Project for study Angular 17+
+
+This project cover RJXS and Signals working together and state management without NGRX.
+
 # AngularstartGiflist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
